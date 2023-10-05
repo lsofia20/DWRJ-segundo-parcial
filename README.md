@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Laura Sofia Nuñez
 
-Codigo :
+Codigo : 0000209239
 
 **Descripción del Problema:**
 
